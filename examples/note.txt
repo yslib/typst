@@ -1,0 +1,17 @@
+#set text(font: "Atma", size:10pt)
+
+= Fri Dec 1 English Listening
+
+#set text(font: "Cascadia Code")
+
+- Another hazard for your back are the shock waves which travel up your spine when you walk, known as *heel strike*.
+
+- Our experience indicates that your money is better spent on the more old-fashioned *remedies*.
+
+- At 10 o'clock, all the new stendent will gather in the Main Hall to meet the Principal and the rest of the *staff*
+
+#text(font: "Barlow")[
+  #list(indent: 20pt)[staff and stuff]
+]
+
+- It's just a *placement test* to help up finding your level of english so that we can put you in the right class.

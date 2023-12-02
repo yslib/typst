@@ -117,6 +117,9 @@ pub fn compile_once(
             if let Some(open) = command.open.take() {
                 open_file(open.as_deref(), &command.output())?;
             }
+            for p in &document.pages {
+                println!("{:#?}", p);
+            }
         }
 
         // Print diagnostics.
